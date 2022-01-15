@@ -1,0 +1,55 @@
+Stat,Strategy,Benchmark Buy & Hold
+Start,2017-01-01,2017-01-01
+End,2022-01-10,2022-01-10
+Risk-free rate,0.00%,0.00%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Total Return,122798.02%,37032.91%
+Daily Sharpe,1.62,1.35
+Daily Sortino,3.27,2.42
+CAGR,312.06%,224.32%
+Max Drawdown,-58.39%,-94.02%
+Calmar Ratio,5.34,2.39
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MTD,3.74%,-17.85%
+3m,-35.35%,-11.50%
+6m,-32.99%,43.27%
+YTD,3.74%,-17.85%
+1Y,84.53%,139.28%
+3Y (ann.),105.20%,187.45%
+5Y (ann.),314.10%,209.51%
+10Y (ann.),-,-
+Since Incep. (ann.),312.06%,224.32%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Daily Sharpe,1.62,1.35
+Daily Sortino,3.27,2.42
+Daily Mean (ann.),129.70%,123.55%
+Daily Vol (ann.),80.08%,91.38%
+Daily Skew,0.89,0.29
+Daily Kurt,3.79,5.95
+Best Day,30.58%,33.47%
+Worst Day,-23.60%,-45.60%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monthly Sharpe,1.74,1.26
+Monthly Sortino,8.01,4.77
+Monthly Mean (ann.),195.89%,211.58%
+Monthly Vol (ann.),112.46%,167.36%
+Monthly Skew,1.51,1.96
+Monthly Kurt,2.31,6.00
+Best Month,116.51%,222.73%
+Worst Month,-28.74%,-53.51%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Yearly Sharpe,0.65,0.59
+Yearly Sortino,inf,4.39
+Yearly Mean,286.87%,154.29%
+Yearly Vol,440.33%,260.51%
+Yearly Skew,1.94,0.60
+Yearly Kurt,3.76,-2.96
+Best Year,1050.92%,474.20%
+Worst Year,3.74%,-81.59%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Avg. Drawdown,-11.92%,-12.79%
+Avg. Drawdown Days,17.53,39.39
+Avg. Up Month,31.15%,43.37%
+Avg. Down Month,-11.22%,-20.97%
+Win Year %,100.00%,40.00%
+Win 12m %,100.00%,66.00%
