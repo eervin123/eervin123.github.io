@@ -6,6 +6,12 @@ I'm often asked to share things I'm working on. Unfortunately, I rarely feel tha
 
 Oh, I almost forgot, **NOTHING ON THIS SITE IS FINANCIAL ADVICE! EVEN IF IT SOUNDS LIKE FINANCIAL ADVICE!**
 
+## About Me
+Blah blah blah
+
+## Helpful Links
+[About Page](/About.md)
+[Backtest Playground](./backtests/)
 ## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

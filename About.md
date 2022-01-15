@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Just looking to share info quickly and easily.
+I'll add more here at some point, but in the meantime, here are a bunch of vids that we made in my Reality Shares days.
 
 ### Some Videos
 ## Blockchain
