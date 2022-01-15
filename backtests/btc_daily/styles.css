@@ -1,0 +1,167 @@
+.bfc_logo {
+  float: left;
+  width: 70%;
+  height: 70%;
+}
+
+.classnametitle {
+  float: center;
+  color: aliceblue;
+}
+
+.stacked_logo {
+  float: right;
+  width: 70%;
+  height: 70%;
+}
+.strategy_header h2 {
+  color: #c8b180;
+}
+h1 {
+  text-align: center;
+  color: aliceblue;
+}
+
+.col {
+  display: inline-block;
+  margin-right: 4%;
+  float: left;
+}
+
+.col:last-child {
+  margin-right: 0;
+}
+
+.col3 {
+  width: 30%;
+}
+.col4 {
+  height: 100%;
+  width: 100%;
+}
+.col5 {
+  width: 30%;
+}
+
+h2 {
+  text-align: center;
+  color: #c8b180;
+}
+
+.header {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.header > div {
+  display: table-cell;
+}
+
+.left {
+  background: #272f38;
+}
+
+.middle {
+  background: #272f38;
+  width: 500px;
+}
+
+.right {
+  background: #272f38;
+}
+
+/* Styling the dataframe tables */
+
+.dataframe {
+  background-color: #272f38;
+  color: #c8b180;
+  text-align: right;
+  border: thin solid;
+  border-color: white;
+  border-collapse: collapse;
+}
+.dataframe thead {
+  color: #c8b180;
+}
+
+#monthly_returns_table {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #272f38;
+  text-align: right;
+  font-size: smaller;
+}
+
+.dataframe td {
+  font-size: smaller;
+}
+
+#monthly_returns_table tr:nth-child(4n-1),
+table tbody tr:nth-child(4n),
+table tbody th:nth-child(4n) {
+  background: #c8b180b0;
+  color: #272f38;
+}
+
+#monthly_returns_table tbody th {
+  vertical-align: center;
+}
+
+body,
+html {
+  height: 100%;
+  margin: 10px;
+  color: #c8b180;
+}
+
+/* Style tab links */
+.tablink {
+  background-color: #c8b18077;
+  color: white;
+  float: left;
+  border: 1;
+  outline: 1px;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 25%;
+}
+
+.tablink:hover {
+  background-color: #777;
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+  padding: 100px 20px;
+  height: 100%;
+}
+
+#ETH_Hyper {
+  background-color: #272f38;
+}
+#BTC_Fast {
+  background-color: #272f38;
+}
+#BTC_Intermediate {
+  background-color: #272f38;
+}
+#About {
+  background-color: #272f38;
+}
+
+.backtestWrapper {
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 15px;
+  padding-right: 15px;
+  height: 80%;
+}
+.backtestWrapper iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding-left: -15px;
+  padding-right: -15px;
+}

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+<head>
+    <meta charset="utf-8">
+    <link href="styles.css" rel="stylesheet">
+    <link rel="icon" href="data:,">
+
+    <title>stacked_btc_fast_display.html
+    </title>
+
+    <div class="header">
+        <div class="left"><img class="bfc_logo" src="https://blockforcecapital.com/assets/images/logo-bfc.svg"
+                alt="bfc logo"></div>
+        <div class="middle">
+            <h1>Blockforce Alpha Predator Strategies for Stacked Invest</h1>
+            <h1>Stacked BTC Fast</h1>
+        </div>
+        <div class="right"><img class="stacked_logo"
+                src="https://stackedinvest.com/blob-files/637504650729252673/assets/images/src/logo-white.svg"
+                alt="Stacked Logo"></div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+    <script>
+        $(function () {
+            $("#MonthlyReturns").load("monthly_returns.html");
+        });
+    </script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.1.2/papaparse.js"></script>
+    <script>
+        function arrayToTable(tableData) {
+            var table = $('<table></table>');
+            $(tableData).each(function (i, rowData) {
+                var row = $('<tr></tr>');
+                $(rowData).each(function (j, cellData) {
+                    row.append($('<td>'+cellData+'</td>'));
+                });
+                table.append(row);
+            });
+            return table;
+        }
+
+        $.ajax({
+            type: "GET",
+            url: "stacked_btc_fast_ffn_stats.csv",
+            success: function (data) {
+                $("#stats").append(arrayToTable(Papa.parse(data).data));
+            }
+        });
+    </script>
+</head>
+
+
+<body style="background-color:#272F38;">
+
+    <div class="backtestWrapper">
+        <div id="MonthlyReturns"></div>
+        <div class="col col3"> &nbsp;
+        </div>
+        <div class="col col4">
+            <iframe src="stacked_btc_fast_chart.html" height=100%!important></iframe>
+            &nbsp;
+        </div>
+        <div class="col col5"> &nbsp;</div>
+        <div id="stats"> </div>
+    </div>
+
+</body>
+
+
+</html>

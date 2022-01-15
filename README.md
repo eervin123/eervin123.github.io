@@ -10,13 +10,11 @@ Oh, I almost forgot,
 
 ## About Me
 
-Blah blah blah
+[About Page](/About.md)
 
 ## Helpful Links
 
 [Project Folder Structure](./dir_content.html)
-
-[About Page](/About.md)
 
 [Backtest Playground](./backtests/)
 
