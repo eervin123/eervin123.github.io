@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+# Eric Ervin's Personal/Professional Homepage
 
-You can use the [editor on GitHub](https://github.com/eervin123/eervin123.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm often asked to share things I'm working on. Unfortunately, I rarely feel that I have anything "complete" enough for others to look over. This is nonsense really, and I need to get over myself. If people are going to judge, so be it. Whenever I get an itch from now on, I'll try to post it here. Let's see where this goes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**No promises that this will be maintained. I'm not the best at follow through with things like this.**
 
-### Markdown
+Oh, I almost forgot, **NOTHING ON THIS SITE IS FINANCIAL ADVICE! EVEN IF IT SOUNDS LIKE FINANCIAL ADVICE!**
+
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
