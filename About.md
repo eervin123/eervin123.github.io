@@ -7,13 +7,17 @@ permalink: /about/
 ## Where to find me
 
 ---
-| Social Links |      Email    |      Websites     |
-| -------------| ------------- | ----------------- |
-| [Twitter @eervin1](https://twitter.com/eervin1)| | |
-| [LinkedIn](https://www.linkedin.com/in/eric-ervin/)| | |
-|| [eervin@blockforcecapital.com](mailto:eervin@blockforcecapital.com) | [www.blockforcecapital.com](https://blockforcecapital.com) |
-|| [eervin@onrampinvest.com](mailto:eervin@onrampinvest.com) | [www.onrampinvest.com](https://www.onrampinvest.com) |
-||| [www.realityshares.com](https://www.realityshares.com)|
+
+| [Twitter @eervin1](https://twitter.com/eervin1) |
+| [LinkedIn](https://www.linkedin.com/in/eric-ervin/) |
+
+| [eervin@blockforcecapital.com](mailto:eervin@blockforcecapital.com) |
+| [www.blockforcecapital.com](https://blockforcecapital.com) |
+
+| [eervin@onrampinvest.com](mailto:eervin@onrampinvest.com) |
+| [www.onrampinvest.com](https://www.onrampinvest.com) |
+
+| [www.realityshares.com](https://www.realityshares.com)|
 
 ## Who is Eric?
 
