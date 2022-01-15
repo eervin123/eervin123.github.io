@@ -14,9 +14,7 @@ Blah blah blah
 
 ## Helpful Links
 
-[Project Folder Structure](./file_tree.html)
-
-[Project Folder Structure](./file_tree_test.html)
+[Project Folder Structure](./dir_content.html)
 
 [About Page](/About.md)
 

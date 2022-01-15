@@ -16,6 +16,14 @@ By default only the current folder is processed.
 Use -r or --recursive to process nested folders.
 """
 
+"""
+For a less tidy but much simpler solution use tree from the terminal
+
+    tree -H '.' -L 3 --noreport --charset utf-8 -o file_tree.html`
+
+here is a link to the Stack Overflow article where both of these were acquired
+https://stackoverflow.com/questions/3785055/how-can-i-create-a-simple-index-html-file-which-lists-all-files-directories
+"""
 import argparse
 import datetime
 import os
