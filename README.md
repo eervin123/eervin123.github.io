@@ -4,15 +4,22 @@ I'm often asked to share things I'm working on. Unfortunately, I rarely feel tha
 
 **No promises that this will be maintained. I'm not the best at follow through with things like this.**
 
-Oh, I almost forgot, **NOTHING ON THIS SITE IS FINANCIAL ADVICE! EVEN IF IT SOUNDS LIKE FINANCIAL ADVICE!**
+Oh, I almost forgot, 
+**NOTHING ON THIS SITE IS FINANCIAL ADVICE! EVEN IF IT SOUNDS LIKE FINANCIAL ADVICE!**
 
 ## About Me
 Blah blah blah
 
 ## Helpful Links
+[Project Folder Structure](./file_tree.html)
+
 [About Page](/About.md)
 
 [Backtest Playground](./backtests/)
+
+- [Alpha Predator ETH Hyper Strategy](./backtests/eth_hyper/index.html)
+
+- [Alpha Predator BTC Trender 4hr](./backtests/quantstats-tearsheet.html) 
 ## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
