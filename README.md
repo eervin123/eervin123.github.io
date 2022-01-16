@@ -18,7 +18,10 @@ Oh, I almost forgot,
 
 [Backtest Playground](./backtests/)
 
+### Backtest Fun Highlights
+
 - [Alpha Predator ETH Hyper Strategy](./backtests/eth_hyper/index.html)
 
 - [Alpha Predator BTC Trender 4hr](./backtests/quantstats-tearsheet.html)
-  
+
+- [Alpha Predator ETH Trender 4hr Max Return](./backtests/trender%20strategy%20optimizations/quantstats-btc-4hr-max-ret-tearsheet.html)
