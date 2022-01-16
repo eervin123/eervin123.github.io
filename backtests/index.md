@@ -14,9 +14,8 @@ I will add more over time. I will also add descriptions. In the meantime, this i
 Alpha Predator "Trender Series" Strategies
 
 - [Alpha Predator BTC Trender 4hr Strategy](./quantstats-tearsheet.html)
-- [Alpha Predator ETH Trender Daily Strategy](./quantstats-eth-tearsheet.html)
+- [Alpha Predator ETH Trender Daily Simple Strategy](./trender%20strategy%20optimizations/quantstats-eth-tearsheet.html)
 - [Alpha Predator ETH Trender Daily Max Sortino](trender%20strategy%20optimizations/eth_t_max_sharpe.html)
-- [Alpha Predator ETH Trender 4hr Max Return](trender%20strategy%20optimizations/quantstats-btc-4hr-max-ret-tearsheet.html)
-- [Alpha Predator Trender BTC 4hr Max Return](trender%20strategy%20optimizations/quantstats-btc-4hr-max-ret-tearsheet.html)
-- [Alpha Predator Trender ETH Simple](trender%20strategy%20optimizations/quantstats-eth-tearsheet.html)
+- [Alpha Predator BTC Trender 4hr Max Return](trender%20strategy%20optimizations/quantstats-btc-4hr-max-ret-tearsheet.html)
+
 - More to follow
