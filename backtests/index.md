@@ -16,4 +16,4 @@ permalink: /backtests/
   - [Alpha Predator ETH Trender Daily Max Sortino](trender%20strategy%20optimizations/eth_t_max_sharpe.html)
   - [Alpha Predator BTC Trender 4hr Max Return](trender%20strategy%20optimizations/quantstats-btc-4hr-max-ret-tearsheet.html)
 
-- More to follow
+- More [...](other_backtests.html)
