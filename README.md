@@ -17,6 +17,7 @@ Oh, I almost forgot,
 [Project Folder Structure](./dir_content.html)
 
 [Backtest Playground](./backtests/)
+
 ![backtest image](assets/images/backtest_thumbnail.png)
 
 ### Backtest Fun Highlights
