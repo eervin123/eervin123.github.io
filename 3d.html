@@ -67,7 +67,10 @@
 		<script async src="https://unpkg.com/es-module-shims@1.3.6/dist/es-module-shims.js"></script>
 
 		</script>
-
+{% comment %} 
+TODO: Would like to eliminate the dual pane effect. This example was originally trying to show the diff between the log buffer and with out
+I set screensplit = 0 so it no longer shows up but it is still rendering.
+{% endcomment %}
 		<script type="module">
 
 			import * as THREE from 'https://cdn.skypack.dev/three';
@@ -109,7 +112,26 @@
 				{ size: 3.08567758e16, scale: 1.0, label: 'ludicrous (1 parsec)' },
 				{ size: 1e19, scale: 1.0, label: 'mind boggling (1000 light years)' }
 			];
-
+			// I was thinking we could do something like this.
+			{% comment %} 
+				"Solana"
+				"DeFi TVL
+				"Ethereum"
+				"Bitcoin"
+				"All Crypto"  
+				"Apple Market Cap"
+				"Google Market Cap"
+				"Nasdaq Market Cap"
+				"Money Markets"
+				"S&P 500 Market Cap"
+				"US Equity Market Cap"
+				"Global Equity Market Cap"
+				"Bond Markets"
+				"Derivatives"
+				"Real Estate"
+				"Global GDP" 
+			{% endcomment %}
+			
 			init();
 
 			function init() {
