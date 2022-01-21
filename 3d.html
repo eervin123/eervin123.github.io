@@ -4,7 +4,7 @@
 		<title>three.js webgl - cameras - logarithmic depth buffer</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-		<link type="text/css" rel="stylesheet" href="main.css">
+		<link type="text/css" rel="stylesheet" href="https://cdn.skypack.dev/three/examples/main.css">
 		<style>
 			body{
 				touch-action: none;
@@ -52,7 +52,7 @@
 	<body>
 
 		<div id="container">
-			<div id="container_normal"><h2 class="renderer_label">normal z-buffer</h2></div>
+			<div id="container_normal"><h2 class="renderer_label"></h2></div>
 			<div id="container_logzbuf"><h2 class="renderer_label">logarithmic z-buffer</h2></div>
 			<div id="renderer_border"></div>
 		</div>
@@ -66,28 +66,22 @@
 		<!-- Remove this when import maps will be widely supported -->
 		<script async src="https://unpkg.com/es-module-shims@1.3.6/dist/es-module-shims.js"></script>
 
-		<script type="importmap">
-			{
-				"imports": {
-					"three": "../build/three.module.js"
-				}
-			}
 		</script>
 
 		<script type="module">
 
-			import * as THREE from 'three';
+			import * as THREE from 'https://cdn.skypack.dev/three';
 
-			import { FontLoader } from './jsm/loaders/FontLoader.js';
-			import { TextGeometry } from './jsm/geometries/TextGeometry.js';
+			import { FontLoader } from 'https://cdn.skypack.dev/three/examples/jsm/loaders/FontLoader.js';
+			import { TextGeometry } from 'https://cdn.skypack.dev/three/examples/jsm/geometries/TextGeometry.js';
 
-			import Stats from './jsm/libs/stats.module.js';
+			import Stats from 'https://cdn.skypack.dev/three/examples/jsm/libs/stats.module.js';
 
 			// 1 micrometer to 100 billion light years in one scene, with 1 unit = 1 meter?  preposterous!  and yet...
 			const NEAR = 1e-6, FAR = 1e27;
 			let SCREEN_WIDTH = window.innerWidth;
 			let SCREEN_HEIGHT = window.innerHeight;
-			let screensplit = .25, screensplit_right = 0;
+			let screensplit = 0, screensplit_right = 0;
 			const mouse = [ .5, .5 ];
 			let zoompos = - 100, minzoomspeed = .015;
 			let zoomspeed = minzoomspeed;
@@ -123,12 +117,12 @@
 				container = document.getElementById( 'container' );
 
 				const loader = new FontLoader();
-				loader.load( 'fonts/helvetiker_regular.typeface.json', function ( font ) {
+				loader.load( 'https://cdn.skypack.dev/three/examples/fonts/helvetiker_regular.typeface.json', function ( font ) {
 
 					const scene = initScene( font );
 
 					// Initialize two copies of the same scene, one with normal z-buffer and one with logarithmic z-buffer
-					objects.normal = initView( scene, 'normal', false );
+					objects.normal = initView( scene, 'normal', true );
 					objects.logzbuf = initView( scene, 'logzbuf', true );
 
 					animate();
@@ -141,8 +135,9 @@
 				// Resize border allows the user to easily compare effects of logarithmic depth buffer over the whole scene
 				border = document.getElementById( 'renderer_border' );
 				border.addEventListener( 'pointerdown', onBorderPointerDown );
-
-				window.addEventListener( 'mousemove', onMouseMove );
+				
+				//I didn't like the mouse changing the camera angle so commented out the next line
+				//window.addEventListener( 'mousemove', onMouseMove ); 
 				window.addEventListener( 'resize', onWindowResize );
 				window.addEventListener( 'wheel', onMouseWheel );
 
