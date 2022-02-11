@@ -6,6 +6,8 @@ permalink: /about/
 
 ## Where to find me
 
+![Profile Pic](assets/images/eric-268x270.png)
+
 ---
 
 | [Twitter @eervin1](https://twitter.com/eervin1) |
@@ -21,7 +23,9 @@ permalink: /about/
 
 ## Who is Eric?
 
-Someday I'll get around to adding some details about myself, but in the meantime, here are a bunch of vids :vhs: that we made in my Reality Shares days. :point_down:
+Founder and CEO of [Blockforce Capital Management](https://www.blockforcecapital.com), Co-Founder and CIO of [Onramp Invest](https://www.onrampinvest.com). Eric was recently appointed as a member of the CFTC Technology Advisory Counsel, Virtual Currency Subcommittee, and has been named “as a top crypto pioneer” by Business Insider in their bitcoin Wall Street power list (April, 2018). Blockforce Capital Management is a quantitative asset management firm that specializes in the crypto and blockchain asset class. Eric previously founded, led and then sold, Reality Shares, an award winning Exchange Traded Fund company known for innovation in the and regulatory compliance.
+
+Someday I'll get around to adding some less sterile details about myself, but in the meantime, here are a bunch of vids :vhs: that we made in my Reality Shares days. :point_down:
 
 ## Reality Shares Legacy Videos and Commercials
 
