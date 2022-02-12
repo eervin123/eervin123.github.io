@@ -103,10 +103,10 @@ analytics:
 # Site Author
 author:
   name             : "Eric Ervin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/eric-268x270.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Just a squirrel trying to find a nut"
   location         : "Somewhere"
-  email            :
+  email            : eervin+gh@blockforcecapital.com"
   links:
     - label: "eervin+gh@blockforcecapital.com"
       icon: "fas fa-fw fa-envelope-square"
