@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eric Ervin's Personal Page"
+title                    : "Eric Ervin"
 title_separator          : "-"
 subtitle                 : "An Experiment - Let's see how this goes."
 name                     : "Eric Ervin"
-description              : "An amazing website."
+description              : "Personal Website Experimentation."
 url                      : "https://eervin123.github.io"
 baseurl                  : "/"
 repository               : "eervin123/eervin123.github.io"
@@ -79,7 +79,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "eervin1"
+  username               : 
 facebook:
   username               :
   app_id                 :
