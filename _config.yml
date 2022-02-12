@@ -25,7 +25,7 @@ url                      : "https://eervin123.github.io"
 baseurl                  : "/"
 repository               : "eervin123/eervin123.github.io"
 teaser                   : "/assets/images/Header.png"
-logo                     : "assets/images/Blockforce_Capital_Secondary_Pos.png"
+logo                     : "assets/images/Blockforce_Capital_Secondary_Neg.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
