@@ -1,0 +1,5 @@
+title: Eric Ervin's Personal/Professional Homepage
+description: An experiment - Let's see how this goes.
+plugins: 
+  - jekyll-include-cache 
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
